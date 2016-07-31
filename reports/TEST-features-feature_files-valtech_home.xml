@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite failures="0" errors="0" skipped="0" tests="5" time="33.612446" name="Perform tests on the Valtech home page">
+<testcase classname="Perform tests on the Valtech home page" name="I can see the section displaying valtech's latest news" time="6.401182">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Perform tests on the Valtech home page" name="I can see that the page header is correct (outline example : | CASES |)" time="7.208372">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Perform tests on the Valtech home page" name="I can see that the page header is correct (outline example : | EVENTS |)" time="9.147399">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Perform tests on the Valtech home page" name="I can see that the page header is correct (outline example : | SERVICES |)" time="7.096956">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Perform tests on the Valtech home page" name="I can see correct number of contact locations" time="3.758537">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+</testsuite>
